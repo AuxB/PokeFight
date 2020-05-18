@@ -37,5 +37,5 @@ For the moment, Pokefight is desploy on https://pokefight.netlify.app/ with netl
 * **Auxence Blondel** - [AuxB](https://github.com/AuxB)
 * **Julien Rousseau** - [julienrousseau16](https://github.com/julienrousseau16)
 * **Stéphane Bour** - [orko3012](https://github.com/orko3012)
-* **Walid M** - [Walid-wm](https://github.com/Walid-wm)
+* **Walid Mahersia** - [Walid-wm](https://github.com/Walid-wm)
 * **Yang Hu** - [yuyangyyy](https://github.com/yuyangyyy)
