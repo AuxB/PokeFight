@@ -1,5 +1,5 @@
 # Pokefight
-!(https://imgur.com/a/4dyuCOm)
+![Pokefight](https://i.imgur.com/n7FxHZO.png)
 
 Pokefight is a project born in my training in Wild Code School with team of five people. 
 In start of this project we doesn't know REACT.JS and we realeased the first version in four weeks.
@@ -9,66 +9,33 @@ Let's play with a simple click on the pokeball in the website !
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+Install depencies of package.json
 
 ```
-Give the example
+npm install
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Run the server 
 
 ```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
+npm start
 ```
 
 ## Deployment
+For the moment, Pokefight is desploy on https://pokefight.netlify.app/ with netlify
 
-Add additional notes about how to deploy this on a live system
+## Programmation languages
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [React.JS](https://reactjs.org/) - A JavaScript library for building user interfaces
+* CSS - Used to style the pages
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-
+* **Auxence Blondel** - [AuxB](https://github.com/AuxB)
+* **Julien Rousseau** - [julienrousseau16](https://github.com/julienrousseau16)
+* **Stéphane Bour** - [orko3012](https://github.com/orko3012)
+* **Walid M** - [Walid-wm](https://github.com/Walid-wm)
+* **Yang Hu** - [yuyangyyy](https://github.com/yuyangyyy)
