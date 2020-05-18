@@ -29,8 +29,13 @@ For the moment, Pokefight is desploy on https://pokefight.netlify.app/ with netl
 
 ## Programmation languages
 
-* [React.JS](https://reactjs.org/) - A JavaScript library for building user interfaces
-* CSS - Used to style the pages
++ [React.JS](https://reactjs.org/) - A JavaScript library for building user interfaces
++ Javascript, Ajax, JSX
++ HTML, CSS
+
+## To come up
+* Add an API home made with Node.JS to import a personalize perso to fight
+* Create a Backend for the ranking and form 
 
 ## Authors
 
