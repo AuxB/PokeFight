@@ -1,5 +1,8 @@
 # Pokefight
-![Pokefight](https://i.imgur.com/n7FxHZO.png)
+
+<p align="center">
+  <img width="800" src="https://i.imgur.com/ataw5h1.png">
+</p>
 
 Pokefight is a project born in my training in Wild Code School with team of five people. 
 In start of this project we doesn't know REACT.JS and we realeased the first version in four weeks.
