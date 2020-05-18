@@ -4,31 +4,29 @@
   <img width="800" src="https://i.imgur.com/ataw5h1.png">
 </p>
 
-Pokefight is a project born during my training in Wild Code School with team of five people. 
-In start of this project we doesn't know REACT.JS and we realeased the first version in four weeks.
-Let's play with a simple click on the pokeball in the website !
+Pokefight is a project born during my training at Wild Code School with a team of five people. 
+At the beginning of this project we didn't know REACT.JS and we released the first version in four weeks.
+Go to the deployment section to access to the website and click on the pokeball to play !
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development.
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
 Install depencies of package.json
-
 ```
 npm install
 ```
 Run the server 
-
 ```
 npm start
 ```
 
 ## Deployment
-For the moment, Pokefight is desploy on https://pokefight.netlify.app/ with netlify
+For the moment, Pokefight is deployed on https://pokefight.netlify.app/ with netlify
 
 ## Programmation languages
 
